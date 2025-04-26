@@ -23,6 +23,9 @@ Use Adaptive thresholding to segment the image.
 ### Step5:
 Use Otsu's method to segment the image and display the results.
 
+
+# NAME: MANGARI DEERAJ
+# REG NO: 212223100031
 ## Program
 
 ```python
